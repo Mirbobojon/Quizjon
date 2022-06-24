@@ -1,0 +1,49 @@
+{
+    "data": [
+      {
+        "question": "Teleminoraning uzunligi?",
+        "choices": ["320", "350", "375", "380"],
+        "answer": "375"
+      },
+      {
+        "question": "JavaScript qaysi yili yaralgan?",
+        "choices": ["1994", "1998", "1995", "1992"],
+        "answer": "1995"
+      },
+      {
+        "question": "HTML to'liq nomi?",
+        "choices": ["hyper text markup language", "high text markup language", "hyper tech markup language", "hyper text machine language"],
+        "answer": "hyper text markup language"
+      },
+      {
+        "question": "O'zbekiston Poytaxti qayer?",
+        "choices": ["Samarqand", "Buxoro", "Toshkent", "Andijon"],
+        "answer": "Toshkent"
+      },
+      {
+        "question": "CSS to'liq nomi?",
+        "choices": ["Cascading Style Sheets", "Codes Style Sheets", "Cascading System Sheets", "Cascading Script Sheets"],
+        "answer": "Cascading Style Sheets"
+      },
+      {
+        "question": "Telegram asoschisi kim?",
+        "choices": ["Zuckerberg", "Steve Jobs", "Pavel Durov", "Elon Musk"],
+        "answer": "Pavel Durov"
+      },
+      {
+        "question": "Internet nima?",
+        "choices": ["Havo", "Sim", "Suniy yo'ldosh", "Sputnik"],
+        "answer": "Sim"
+      },
+      {
+        "question": "Ronaldo qaysi jamoa hujumchisi?",
+        "choices": ["Juventus", "Real Madrid", "Barcelona", "Manchester United"],
+        "answer": "Manchester United"
+      },
+      {
+        "question": "Messi qayerda tug'ilgan?",
+        "choices": ["Ispaniya", "Portugaliya", "Angliya", "Argentina"],
+        "answer": "Argentina"
+      }
+    ]
+  }
